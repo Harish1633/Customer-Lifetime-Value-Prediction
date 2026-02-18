@@ -345,6 +345,7 @@ if page == "Business Suggestions":
                     • Apply upselling and cross-selling strategies<br>
                     • Encourage repeat purchases with limited offers<br>
                     • Use targeted email or app notifications<br>
+                    <br>
                 </div>
             </div>""",unsafe_allow_html=True)
 
